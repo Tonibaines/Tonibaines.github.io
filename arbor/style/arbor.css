@@ -26,3 +26,9 @@ a:hover {
 .left {
       float:left;
       width: 70%;
+      
+}
+.right {
+      margin-left: 70%;
+      
+}
